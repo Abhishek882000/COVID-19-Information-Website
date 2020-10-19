@@ -1,0 +1,14 @@
+.navbar{
+  position: sticky;
+}
+.navbar ul li {
+    font-size: 17px;
+    padding: 5px;
+  }
+  
+  .navbar ul li a:hover {
+    color: #e2e6ea;
+    border-bottom: 2px ridge #e2e6ea;
+    transition: .1s ease-in-out;
+  }
+  
